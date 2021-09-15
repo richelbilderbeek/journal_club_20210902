@@ -31,10 +31,10 @@ the most relevant hit from 2021 and in general.
 ### Summary
 
 GWAS declines in Open Science.
-With the HGP, data, code/analyses and results/publications were shared.
-GWAS became mainstream.
-Now GWAS is moved to Supplementary Materials, with less review.
-Also, data, code/analyses and results/publications were shared less, also due to the use of company data.
+
+With the HGP, GWAS was Open Science, as data, code/analyses and results/publications were shared.
+GWAS then became mainstream.
+Now GWAS is moved to Supplementary Materials, which are reviewed less, and also data, code/analyses and results/publications were shared less, partially because of the use of company data.
 GWAS should increase openness and reproducibility to maintain scientific credibility.
 
 ### Discussion points
@@ -43,7 +43,7 @@ GWAS should increase openness and reproducibility to maintain scientific credibi
  * To which extent do you agree with the article?
  * Where do you disagree with the article?
 
-### Criticism
+### My criticism
 
 #### Many unreferenced claims
 
@@ -60,6 +60,23 @@ It appears to be:
  * 'the sharing of materials, results, and data'
  * 'GWAS transparency'
  * Not 'partial results, no code, and no data'
+
+As Munafo wrote ['A manifesto for reproducible science' in Nature human behaviour](https://www.nature.com/articles/s41562-016-0021),
+he is very likely to be able to produce a good definition.
+
+### The first author never did a GWAS study
+
+The first author, Callie Burt, maybe is too short in this field.
+I quote from [her Georgia State University profile page](https://aysps.gsu.edu/profile/callie-burt/):
+
+> Callie Burt is an Associate Professor of Criminology at Georgia State University. She has a BA, MA, and PhD in Sociology from the University of Georgia. 
+
+with a first mention of genetics of 2018:
+
+> With the support of a MRSD K01 award from the Eunice Kennedy Shriver National Institute of Child Health and Human Development (2018-2023), she is studying genomics and biostatistics to incorporate gene-environment interplay (especially epigenetic mechanisms of embodiment) into her research program.
+
+I would feel that three years in the field is a bit short to write such
+a 'shin-kicking' article.
 
 #### Publishing on Open Science in closed access journal
 
@@ -93,38 +110,31 @@ In [Munafò, Marcus R., et al. "A manifesto for reproducible science." Nature hu
 we find an article cited that claims that the number
 of preregistration is increasing ([Nosek, Brian A., et al. "The preregistration revolution."](https://www.pnas.org/content/115/11/2600))
 
-
-
 ## Long summary
 
-Abstract: GWAS declines in Open Science
-
-1. HGP was Open Science, i.e. data sharing, coordination, and transparency in advancing knowledge, scientific credibility, and improvements in human health
-2. At the start, GWAS adopted Open Science (shared data, analyses, code, quality control and results (typically summary results) due to the initial low statistical power and questionable methodological practices 
-3. GWAS is now a mainstream technique, with details in Supplementary Materials and this less reviewed
-4. Due to less reviewing of GWAS, standards have become inconsistent, e.g.
+  0. Abstract: GWAS declines in Open Science
+  1. HGP was Open Science, i.e. data sharing, coordination, and transparency in advancing knowledge, scientific credibility, and improvements in human health
+  2. At the start, GWAS adopted Open Science (shared data, analyses, code, quality control and results (typically summary results) due to the initial low statistical power and questionable methodological practices 
+  3. GWAS is now a mainstream technique, with details in Supplementary Materials and this less reviewed
+  4. Due to less reviewing of GWAS, standards have become inconsistent, e.g.
     * quality scores as high as r^2 > .9 [REFERENCE]
     * an imputation accuracy score of < .1 [Howard et al., 2019]
     * 'To create independent SNP, clumping was applied using a linkage disequilibrium r^2 of <​ 0.1' [Howard et al., 2019]
-5. In current science, the incentives to produce noteworthy findings are substantial,
-   so transparency should serve as a quality control function. Also, current
-   published-yet-opaque findings are re-used 
-6. Shift away of Open Science practices, due to partnering with companies
-   that allow no access to individual data (analyzed with “in house pipelines”),
-   no sharing of data, and sharing of only partial results.
-7. Many recently published GWAS using 23andMe data include partial results, 
-   no code, and no data [e.g., 4,5]. 
-   The result is that researchers’ ability 
-   to replicate and build on these studies is limited.
-8. Commercial datasets are also often highly unrepresentative,
-   so we should openly debate if using these is worth it
-9. If GWAS wants to remain a paragon of open science, 
-   it cannot be open only when convenient,
-   else openness, reproducibility and scientific credibility are gradually lost
-
-## Criticism
-
-
+  5. In current science, the incentives to produce noteworthy findings are substantial,
+    so transparency should serve as a quality control function. Also, current
+    published-yet-opaque findings are re-used 
+  6. Shift away of Open Science practices, due to partnering with companies
+    that allow no access to individual data (analyzed with “in house pipelines”),
+    no sharing of data, and sharing of only partial results.
+  7. Many recently published GWAS using 23andMe data include partial results, 
+    no code, and no data [e.g., 4,5]. 
+    The result is that researchers’ ability 
+    to replicate and build on these studies is limited.
+  8. Commercial datasets are also often highly unrepresentative,
+    so we should openly debate if using these is worth it
+  9. If GWAS wants to remain a paragon of open science, 
+    it cannot be open only when convenient,
+    else openness, reproducibility and scientific credibility are gradually lost
 
 ## Other questions
 
