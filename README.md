@@ -21,11 +21,14 @@ the most relevant hit from 2021 and in general.
 
 ### Summary
 
-GWAS declines in Open Science.
+**GWAS declines in Open Science**.
 
 With the HGP, GWAS was Open Science, as data, code/analyses and results/publications were shared.
+
 GWAS then became mainstream.
+
 Now GWAS is moved to Supplementary Materials, which are reviewed less, and also data, code/analyses and results/publications were shared less, partially because of the use of company data.
+
 GWAS should increase openness and reproducibility to maintain scientific credibility.
 
 ### Discussion points
@@ -66,8 +69,8 @@ with a first mention of genetics of 2018:
 
 > With the support of a MRSD K01 award from the Eunice Kennedy Shriver National Institute of Child Health and Human Development (2018-2023), she is studying genomics and biostatistics to incorporate gene-environment interplay (especially epigenetic mechanisms of embodiment) into her research program.
 
-I would feel that three years in the field is a bit short to write such
-a 'shin-kicking' article.
+I would feel that three years being in the field with side-projects 
+is a bit short to write such a 'shin-kicking' article.
 
 #### Publishing on Open Science in closed access journal
 
@@ -95,11 +98,24 @@ That article has a clear definition of Open Science:
 > NIH [National Institutes of Health], 
 > and IRDiRC [ International Rare Diseases Research Consortium].
 
-#### A counter example in article of  Munafò
+#### A counter example in article of Munafò
 
 In [Munafò, Marcus R., et al. "A manifesto for reproducible science." Nature human behaviour 1.1 (2017): 1-9.](https://www.nature.com/articles/s41562-016-0021)
 we find an article cited that claims that the number
 of preregistration is increasing ([Nosek, Brian A., et al. "The preregistration revolution."](https://www.pnas.org/content/115/11/2600))
+
+#### Was it really better in the early days?
+
+I find it hard to believe that in the early days data 
+data, analyses, code, quality control and results
+were indeed shared, as 
+
+ * the infrastructure was not as developed as it is now, for
+   * data, e.g. GWAS Central
+   * code, e.g. GitHub
+   * analyses, e.g. papers, R/Jupyter Notebooks, 
+   * results, e.g. Zenodo
+ * there was less of a push for Open Access
 
 ## Long summary
 
