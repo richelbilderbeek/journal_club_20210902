@@ -11,9 +11,12 @@ the most relevant hit from 2021 and in general.
 
 ### Authors
 
-![Callie Burt](callie_burt.jpg)
 
-![Marcus Munafo](marcus_munafo.jpg)
+Callie Burt                     | Marcus Munafo
+--------------------------------|--------------------------------
+![Callie Burt](callie_burt.jpg) | ![Marcus Munafo](marcus_munafo.jpg)
+
+
 
 ### Summary
 
