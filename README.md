@@ -1,6 +1,8 @@
 # journal_club_20210916
 
-Journal Club 2021-09-16 presented by Richel Bilderbeek.
+ * Paper: [Has GWAS lost its status as a paragon of open science?](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001242)
+ * Presenter: Richel Bilderbeek.
+ * Date: 2021-09-16
 
 ## Presentation
 
