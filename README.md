@@ -52,14 +52,17 @@ From [Joni Coleman](https://twitter.com/Joni_Coleman/status/1393192476773654535)
 
 ### My criticism
 
-#### Many unreferenced claims
+#### 1. Many unreferenced claims
+
+I had never seen an article with so few citations and thus unreferences
+claim. This is an example of feedback I would give:
 
 > Genome-wide association studies (GWAS) continued these open science trends [REFERENCE]. 
 > The GWAS era arose following the widespread recognition of low statistical power [REFERENCE]
 > and questionable methodological practices in candidate gene association studies [REFERENCE], 
 > which were plagued by low reproducibility [REFERENCE].
 
-#### No definition of Open Science
+#### 2. No definition of Open Science
 
 Which definition of Open Science is used?
 It appears to be:
@@ -71,7 +74,7 @@ It appears to be:
 As Munafo wrote ['A manifesto for reproducible science' in Nature human behaviour](https://www.nature.com/articles/s41562-016-0021),
 he is very likely to be able to produce a good definition.
 
-### The first author never did a GWAS study
+### 3. The first author never did a GWAS study
 
 The first author, Callie Burt, maybe is too short in this field.
 I quote from [her Georgia State University profile page](https://aysps.gsu.edu/profile/callie-burt/):
@@ -82,18 +85,16 @@ with a first mention of genetics of 2018:
 
 > With the support of a MRSD K01 award from the Eunice Kennedy Shriver National Institute of Child Health and Human Development (2018-2023), she is studying genomics and biostatistics to incorporate gene-environment interplay (especially epigenetic mechanisms of embodiment) into her research program.
 
-I would feel that three years being in the field with side-projects 
+I enjoy her work, but for a paper that reviews the history of GWAS
+studies in a I-know-I-was-there (i.e. without any figures and tables)
+I feel three years being sideways in the field
 is a bit short to write such a 'shin-kicking' article.
 
-#### Publishing on Open Science in closed access journal
+I do think it is theoretically possible for her to do a historical 
+paper, i.e. create an overview based on data, as I do think she's
+an asset for academia.
 
-The authors cites an article by Munafo,
-[Scientific rigor and the art of motorcycle maintenance](https://www.nature.com/articles/nbt.3004),
-which is closed access. This may be explained that 
-Munafo is the first author on that cited article 
-and the last author may be less of an open-access proponent.
-
-#### A counter-example by Google Scholar search
+#### 4. Is that really so? A counter-example by Google Scholar search
 
 The 2020 article [Rubinstein et al., The case for open science: rare diseases](https://academic.oup.com/jamiaopen/article/3/3/472/5904414)
 claims the GWAS rare diseases are doing great in this regard. 
@@ -111,13 +112,13 @@ That article has a clear definition of Open Science:
 > NIH [National Institutes of Health], 
 > and IRDiRC [ International Rare Diseases Research Consortium].
 
-#### A counter example in article of Munafò
+#### 5. Is it really so? A counter example in article of Munafò
 
 In [Munafò, Marcus R., et al. "A manifesto for reproducible science." Nature human behaviour 1.1 (2017): 1-9.](https://www.nature.com/articles/s41562-016-0021)
 we find an article cited that claims that the number
 of preregistration is increasing ([Nosek, Brian A., et al. "The preregistration revolution."](https://www.pnas.org/content/115/11/2600))
 
-#### Was it really better in the early days?
+#### 6. Was it really better in the early days?
 
 I find it hard to believe that in the early days data 
 data, analyses, code, quality control and results
@@ -129,6 +130,14 @@ were indeed shared, as
    * analyses, e.g. papers, R/Jupyter Notebooks, 
    * results, e.g. Zenodo
  * there was less of a push for Open Access
+
+#### 7. Publishing on Open Science in closed access journal
+
+The authors cites an article by Munafo,
+[Scientific rigor and the art of motorcycle maintenance](https://www.nature.com/articles/nbt.3004),
+which is closed access. This may be explained that 
+Munafo is the first author on that cited article 
+and the last author may be less of an open-access proponent.
 
 ## Long summary
 
