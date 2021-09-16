@@ -57,6 +57,9 @@ claim. This is an example of feedback I would give:
 > and questionable methodological practices in candidate gene association studies [REFERENCE], 
 > which were plagued by low reproducibility [REFERENCE].
 
+It was noted in the discussion that this was an opinion paper,
+instead of an article, hence having fewer references is OK.
+
 #### 2. No definition of Open Science
 
 Which definition of Open Science is used?
@@ -69,7 +72,7 @@ It appears to be:
 As Munafo wrote ['A manifesto for reproducible science' in Nature human behaviour](https://www.nature.com/articles/s41562-016-0021),
 he is very likely to be able to produce a good definition.
 
-### 3. The first author never did a GWAS study
+### 3. The first author is new in the field and never did a GWAS study
 
 The first author, Callie Burt, maybe is too short in this field.
 I quote from [her Georgia State University profile page](https://aysps.gsu.edu/profile/callie-burt/):
@@ -195,6 +198,4 @@ From [Joni Coleman](https://twitter.com/Joni_Coleman/status/1393192476773654535)
   9. If GWAS wants to remain a paragon of open science, 
     it cannot be open only when convenient,
     else openness, reproducibility and scientific credibility are gradually lost
-
-## Other questions
 
