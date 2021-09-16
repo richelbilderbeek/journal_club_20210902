@@ -37,7 +37,7 @@ GWAS should increase openness and reproducibility to maintain scientific credibi
  * To which extent do you agree with the article?
  * Where do you disagree with the article?
  * Are the mentioned different standards a problem?
- * Is irreprodicibity a problem?
+ * To what extent is irreproducibility a problem?
 
 ## Picture used as a spacer
 
