@@ -30,25 +30,14 @@ GWAS should increase openness and reproducibility to maintain scientific credibi
  * How would you rate the quality of the article?
  * To which extent do you agree with the article?
  * Where do you disagree with the article?
+ * Are the mentioned different standards a problem?
+ * Is irreprodicibity a problem?
 
 ## Picture used as a spacer
 
 ![](munafo_2017_fig_1_50.png)
 
 > From [Munafo et al., 'A manifesto for reproducible science' in Nature human behaviour](https://www.nature.com/articles/s41562-016-0021),
-
-### Another opinion
-
-From [Joni Coleman](https://twitter.com/Joni_Coleman/status/1393192476773654535):
-
-```
-(IMO) a valuable, shin-kicking perspective from @callie_h_burt
- and @MarcusMunafo
- – GWAS needs to be transparent and justified in reporting its methods and the reasoning behind them.
-
-#PLOSBiology: Has GWAS lost its status as a paragon of open science?
-```
-
 
 ### My criticism
 
@@ -139,6 +128,42 @@ which is closed access. This may be explained that
 Munafo is the first author on that cited article 
 and the last author may be less of an open-access proponent.
 
+#### Are the different standards a problem?
+
+According to [Wood et al., 2021, Meta-analysis: Congruence of genomic and phenotypic differentiation across diverse natural study systems](https://doi.org/10.1111/eva.13264),
+it is not; it is a the result of innovation instead.
+
+> While numerous phenotypic traits clearly have a heritable basis, their underlying genomic architecture is rarely fully- or even mostly- explained, leading to what is sometimes called the 'missing heritability problem' (Young, 2019; Zuk et al., 2012). This is not entirely unexpected given the great complexity of genomes and phenomes, and the constraints both present for statistical power (López- Cortegano & Caballero, 2019; Uricchio, 2020). 
+> 
+> **This recognized challenge has led to substantial innovation- and thus variability- among investigators and studies in methods used to associate genomic and phenotypic differentiation (Burt & Munafò, 2021).**
+> 
+> Despite a growing number of approaches, no clear best practices exist for linking genotype to phenotype across systems. Each method has substantial limitations, and the lack of best practices adds noise to any attempt to detect underlying trends common across the tree of life (Tam et al., 2019).
+
+I feel different standards are fine, as long as these are used transparently.
+
+### Is irreproducibility a problem?
+
+Some references that it may do so:
+
+ * [Freedman, Leonard P., Iain M. Cockburn, and Timothy S. Simcoe. "The economics of reproducibility in preclinical research." PLoS biology 13.6 (2015): e1002165.](https://doi.org/10.1371/journal.pbio.1002165)
+   report 28 billion USB goes to irreproducible preclinical research
+ * [Wingen, Tobias, Jana B. Berkessel, and Birte Englich. "No replication, no trust? How low replicability influences trust in psychology." Social Psychological and Personality Science 11.4 (2020): 454-463.](https://doi.org/10.1177/1948550619877412)
+   'low replicability reduces public trust in psychology.'
+
+Reproducibility is a major principle underpinning the scientific method.
+
+### Another opinion
+
+From [Joni Coleman](https://twitter.com/Joni_Coleman/status/1393192476773654535):
+
+```
+(IMO) a valuable, shin-kicking perspective from @callie_h_burt
+ and @MarcusMunafo
+ – GWAS needs to be transparent and justified in reporting its methods and the reasoning behind them.
+
+#PLOSBiology: Has GWAS lost its status as a paragon of open science?
+```
+
 ## Long summary
 
   0. Abstract: GWAS declines in Open Science
@@ -166,24 +191,4 @@ and the last author may be less of an open-access proponent.
     else openness, reproducibility and scientific credibility are gradually lost
 
 ## Other questions
-
-### Is irreprodicibity a problem?
-
-Some references that it may do so:
-
- * [Freedman, Leonard P., Iain M. Cockburn, and Timothy S. Simcoe. "The economics of reproducibility in preclinical research." PLoS biology 13.6 (2015): e1002165.](https://doi.org/10.1371/journal.pbio.1002165)
-   report 28 billion USB goes to irreproducible preclinical research
- * [Wingen, Tobias, Jana B. Berkessel, and Birte Englich. "No replication, no trust? How low replicability influences trust in psychology." Social Psychological and Personality Science 11.4 (2020): 454-463.](https://doi.org/10.1177/1948550619877412)
-   'low replicability reduces public trust in psychology.'
-
-### Are the different standards a problem?
-
-According to [Wood et al., 2021, Meta-analysis: Congruence of genomic and phenotypic differentiation across diverse natural study systems](https://doi.org/10.1111/eva.13264),
-it is not; it is a the result of innovation instead.
-
-> While numerous phenotypic traits clearly have a heritable basis, their underlying genomic architecture is rarely fully- or even mostly- explained, leading to what is sometimes called the 'missing heritability problem' (Young, 2019; Zuk et al., 2012). This is not entirely unexpected given the great complexity of genomes and phenomes, and the constraints both present for statistical power (López- Cortegano & Caballero, 2019; Uricchio, 2020). 
-> 
-> **This recognized challenge has led to substantial innovation- and thus variability- among investigators and studies in methods used to associate genomic and phenotypic differentiation (Burt & Munafò, 2021).**
-> 
-> Despite a growing number of approaches, no clear best practices exist for linking genotype to phenotype across systems. Each method has substantial limitations, and the lack of best practices adds noise to any attempt to detect underlying trends common across the tree of life (Tam et al., 2019).
 
