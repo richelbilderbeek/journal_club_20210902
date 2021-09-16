@@ -6,10 +6,14 @@
 
 ## Presentation
 
+![](article.png)
+
 ### Why this article?
 
 When searching on Google Scholar for 'GWAS + "Open Science"', it is
 the most relevant hit from 2021 and in general.
+
+![](google_scholar.png)
 
 ### Summary
 
