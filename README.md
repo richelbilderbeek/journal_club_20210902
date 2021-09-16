@@ -9,16 +9,11 @@ Journal Club 2021-09-16 presented by Richel Bilderbeek.
 When searching on Google Scholar for 'GWAS + "Open Science"', it is
 the most relevant hit from 2021 and in general.
 
-### Authors
-
-
-Callie Burt                     | Marcus Munafo
---------------------------------|--------------------------------
-![Callie Burt](callie_burt.jpg) | ![Marcus Munafo](marcus_munafo.jpg)
-
-
-
 ### Summary
+
+Callie Burt                        | Marcus Munafo
+-----------------------------------|-----------------------------------
+![Callie Burt](callie_burt_50.jpg) | ![Marcus Munafo](marcus_munafo.jpg)
 
 **GWAS declines in Open Science**.
 
