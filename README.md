@@ -2,22 +2,18 @@
 
 Journal Club 2021-09-16 presented by Richel Bilderbeek.
 
-From [Joni Coleman](https://twitter.com/Joni_Coleman/status/1393192476773654535):
-
-```
-(IMO) a valuable, shin-kicking perspective from @callie_h_burt
- and @MarcusMunafo
- – GWAS needs to be transparent and justified in reporting its methods and the reasoning behind them.
-
-#PLOSBiology: Has GWAS lost its status as a paragon of open science?
-```
-
 ## Presentation
 
 ### Why this article?
 
 When searching on Google Scholar for 'GWAS + "Open Science"', it is
 the most relevant hit from 2021 and in general.
+
+### Authors
+
+![Callie Burt](callie_burt.jpg)
+
+![Marcus Munafo](marcus_munafo.jpg)
 
 ### Summary
 
@@ -36,6 +32,25 @@ GWAS should increase openness and reproducibility to maintain scientific credibi
  * How would you rate the quality of the article?
  * To which extent do you agree with the article?
  * Where do you disagree with the article?
+
+## Picture used as a spacer
+
+![](munafo_2017_fig_1_50.png)
+
+> From [Munafo et al., 'A manifesto for reproducible science' in Nature human behaviour](https://www.nature.com/articles/s41562-016-0021),
+
+### Another opinion
+
+From [Joni Coleman](https://twitter.com/Joni_Coleman/status/1393192476773654535):
+
+```
+(IMO) a valuable, shin-kicking perspective from @callie_h_burt
+ and @MarcusMunafo
+ – GWAS needs to be transparent and justified in reporting its methods and the reasoning behind them.
+
+#PLOSBiology: Has GWAS lost its status as a paragon of open science?
+```
+
 
 ### My criticism
 
